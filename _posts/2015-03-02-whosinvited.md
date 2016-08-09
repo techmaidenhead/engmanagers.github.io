@@ -5,6 +5,4 @@ color: white   #text color
 fa-icon: info
 ---
 
-## You are welcome to join Women in Tech chat if you identify as a woman <em>in any way that's meaningful to you</em>. ##
-
-###Male friends & allies: we appreciate your support, but this space is for us.###
+## You are welcome to join Engineering Managers chat if you're currently working as an Engineering Manager, Team Lead, or any other role which involves managing people working in technology.##
