@@ -11,7 +11,6 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
 
 
 ### content configuration ###
@@ -36,4 +35,9 @@ colors:
   blue:			'#00C0FC'
   indigo:		'#5A81FF'
   purple:		'#5D19AF'
-  
+  green:     '#9bcf2f'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
