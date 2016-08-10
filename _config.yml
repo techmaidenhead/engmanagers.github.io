@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Enginnering Managers Slack Group"
+title:       "Engineering Managers Slack Group"
 keywords:    "engineering managers, vp engineering, engineering, leadership, technology, programming, software, development, slack"
 description: "Public landing page for Engineering Manager Slack group. Read code of conduct, request invite here."
 source_link: "http://engmanagers.github.io"
