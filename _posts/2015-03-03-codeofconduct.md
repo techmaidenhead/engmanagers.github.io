@@ -35,6 +35,7 @@ Some EMS spaces may have additional rules in place, which will be made clearly a
 - Continued one-on-one communication after requests to cease
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse
 - Publication of non-harassing private communication
+- Instances of [Privileged Explaining](http://everydayfeminism.com/2014/12/the-problem-with-privilege-explaining/)
 
 ### EMS prioritizes marginalized people’s safety over privileged people’s comfort. The administrators will not act on complaints regarding: ###
 
