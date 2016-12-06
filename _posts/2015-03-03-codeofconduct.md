@@ -9,7 +9,9 @@ fa-icon: group
 
 “EMS” in this document refers to the Engineering Manager Slack chat group at [engmanagers.slack.com](http://eng-managers.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://eng-managers.slack.com/team) (must be a member of the organization to view).
 
-EMS is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+EMS is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. 
+
+The EMS chat group aims to provide a safe space where contributors can disclose situations that they are currently experiencing. It's not always the case that the original contributor will be looking for advice or feedback. Do not offer unsolicited advice of feedback without first checking the intentions of the original comment poster. Specifically, advice and feedback should only be given if the poster requested it. If in doubt, check first.
 
 This code of conduct applies to all EMS spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
