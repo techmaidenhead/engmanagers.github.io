@@ -7,7 +7,9 @@ fa-icon: group
 
 ## Engineering Manager Slack Community Code of Conduct ##
 
-“EMS” in this document refers to the Engineering Manager Slack chat group at [engmanagers.slack.com](http://eng-managers.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://eng-managers.slack.com/team) (must be a member of the organization to view). EMS operates under [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
+“EMS” in this document refers to the Engineering Manager Slack chat group at [engmanagers.slack.com](http://eng-managers.slack.com). “The administrators” refers to the administrators on this organization, a list is available at the top of the [Team Directory](https://eng-managers.slack.com/team) (must be a member of the organization to view). 
+
+EMS operates under [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). You are free to use the information in EMS in other contexts, however you should not disclose the the identity or affliation of any commenter in EMS.
 
 EMS is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
