@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Engineering Managers Slack Group"
-keywords:    "engineering managers, vp engineering, engineering, leadership, technology, programming, software, development, slack"
-description: "Public landing page for Engineering Manager Slack group. Read code of conduct, request invite here."
-source_link: "http://engmanagers.github.io"
+title:       "tech[maidenhead] Slack Group"
+keywords:    "meetup, devops, engineering, leadership, technology, programming, software, development, slack, maidenhead"
+description: "Public landing page for tech[maidenhead] Slack group. Read code of conduct, request invite here."
+source_link: "http://techmaidenhead.github.io"
 favicon:     "img/favicon.ico"
 touch_icon: # "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
